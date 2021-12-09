@@ -1,7 +1,7 @@
 <channels>
 <channel>
 <name>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/mello506/1.0-MENU-NEWADD/main/A1-CATEGORIAS-KRP</externallink>
+<externallink>https://raw.githubusercontent.com/mello506/A1-MENU-LS-CAT-KRP/main/A1-CATEGORIAS-KRP</externallink>
 <thumbnail>https://i.ibb.co/bv1FXTF/LS-ICONE.png</thumbnail>
 <fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>
 <info>FAÇA SUA ESCOLHA E DIVIRTA-SE</info>
@@ -13,7 +13,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channels>
 <channel>
 <name>[COLOR white][B]LANÇAMENTOS[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/mello506/1.0-MENU-NEWADD/main/B1-SEL-LANSAMENTOS-KRP</externallink>
+<externallink><LINKPARAAPAGINAALVO></externallink>
 <thumbnail>https://i.ibb.co/pvJ2qBX/LANS-ALL.png</thumbnail>
 <fanart>https://i.ibb.co/TRz60zj/FANART-LS.png</fanart>
 <info>AS NOVIDADES EM FILMES E SÉRIES ESTÃO AQUI.
@@ -27,7 +27,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channels>
 <channel>
 <name>[B][COLOR white]FILMES[/COLOR][/B]</name>
-<externallink>https://raw.githubusercontent.com/mello506/1.0-MENU-NEWADD/main/C1-SEL-FLMS-KRP</externallink>
+<externallink><LINKPARAAPAGINAALVO></externallink>
 <thumbnail>https://i.ibb.co/0hVpws3/FILMES.png</thumbnail>
 <fanart>https://i.ibb.co/TRz60zj/FANART-LS.png</fanart>
 <info>O MELHOR DA SÉTIMA ARTE</info>
@@ -39,7 +39,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channels>
 <channel>
 <name>[B][COLOR white]SÉRIES[/COLOR][/B]</name>
-<externallink>https://raw.githubusercontent.com/mello506/1.0-MENU-NEWADD/main/D1-SEL-SERIES-KRP</externallink>
+<externallink>><LINKPARAPAGINAALVO></externallink>
 <thumbnail>https://i.ibb.co/59XXVjs/SERIES.png</thumbnail>
 <fanart>https://i.ibb.co/TRz60zj/FANART-LS.png</fanart>
 <info>SUA MARATONA ESTA AQUI</info>
@@ -48,10 +48,9 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<channels>
-<channel>
+
 <name>[B][COLOR white]ANIMES[/COLOR][/B]</name>
-<externallink>https://raw.githubusercontent.com/mello506/1.0-MENU-NEWADD/main/E1-SEL-ANIMES-KRP</externallink>
+<externallink>><LINKPARAPAGINAALVO></externallink>
 <thumbnail>https://i.ibb.co/HH8RhzY/ANIMES.png</thumbnail>
 <fanart>https://i.ibb.co/TRz60zj/FANART-LS.png</fanart>
 <info>A CULTURA ANIME REPRESENTADA AQUI</info>
@@ -63,7 +62,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channels>
 <channel>
 <name>[B][COLOR white]NOVELAS[/COLOR][/B]</name>
-<externallink>https://raw.githubusercontent.com/mello506/1.0-MENU-NEWADD/main/F1-SEL-NOVELAS-KRP</externallink>
+<externallink>><LINKPARAPAGINAALVO></externallink>
 <thumbnail>https://i.ibb.co/5YYsw77/NOVELAS.png</thumbnail>
 <fanart>https://i.ibb.co/TRz60zj/FANART-LS.png</fanart>
 <info>VALE A PENA VER DE NOVO SUA NOVELA FAVORITA </info>
@@ -75,7 +74,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channels>
 <channel>
 <name>[B][COLOR white]DESENHOS[/COLOR][/B]</name>
-<externallink>https://raw.githubusercontent.com/mello506/1.0-MENU-NEWADD/main/G1-SEL-DESENHOS-KRP</externallink>
+<externallink>><LINKPARAPAGINAALVO></externallink>
 <thumbnail>https://i.ibb.co/pfcjJZd/DESENHOS.png</thumbnail>
 <fanart>https://i.ibb.co/TRz60zj/FANART-LS.png</fanart>
 <info>DIVERSÃO GARANTIDA PARA A CRIANÇADA </info> 
@@ -111,7 +110,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channels>
 <channel>
 <name>[COLOR white][B]SEÇÃO NOSTALGIA[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/mello506/1.0-MENU-NEWADD/main/J1-SEL-NOSTALGIA-KRP</externallink>
+<externallink>><LINKPARAPAGINAALVO></externallink>
 <thumbnail>https://i.ibb.co/GJdfPjf/NOSTALGIA.png</thumbnail
 <fanart>https://i.ibb.co/TRz60zj/FANART-LS.png</fanart>
 <info>MATERIAIS RAROS  DIFÍCEIS DE ENCONTRAR NA WEB</info>
@@ -120,18 +119,8 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-
-<name>[B][COLOR white]PEDIDOS DO USUÁRIO[/COLOR][/B]</name>
-<externallink><LINKPARAAPAGINAALVO></externallink>
-<thumbnail>https://i.ibb.co/yNxkmtR/Pedidos.png</thumbnail>
-<fanart>https://i.ibb.co/TRz60zj/FANART-LS.png</fanart>
-<info>OS PEDIDOS DO USUÁRIO</info>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-
+<channels>
+<channel>
 <name>[B][COLOR white]NOVIDADES DA SEMANA[/COLOR][/B]</name>
 <externallink><LINKPARAAPAGINAALVO></externallink>
 <thumbnail>https://i.ibb.co/VQWgW1C/NOVIDADES.png</thumbnail>
