@@ -1,78 +1,79 @@
 <item>																																	
 <title>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</title>																																	
 <link>NOLINK</link>																																	
-<thumbnail>https://i.ibb.co/bv1FXTF/LS-ICONE.png</thumbnail>
+<thumbnail>https://i.ibb.co/bv1FXTF/LS-ICONE.png</thumbnail>																																	
 <fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>																																	
 <info>FAÇA SUA ESCOLHA E DIVIRTA-SE</info>																																	
 </item>																																	
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
-
-<item>
-<title>[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]Gavião Arqueiro[/B][/COLOR]</title>
-<link>plugin://plugin.video.youtube/play/?video_id=C-Wi9qu--0k</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/62qfVDg4VK3kqZFxrRztPqSbal4.jpg</thumbnail>	
-<fanart>https://www.themoviedb.org/t/p/original/xyC3K4pB7dxMpC4gd0aoQwAvUZ4.jpg</fanart>
-<info>Assista ao trailer</info>
-<genre>SUPER-HERÓIS</genre> 
-</item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
-
-<item>
-<title>[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Gavião Arqueiro (2021)[/B][/COLOR]</title>		
-	
-<link>NOLINK$$lsname=[COLOR orange][B] Temporada 01 - 02 EPs  LEG[/B][/COLOR]</link>	
-	
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:20689bea361698b8f8583fa0063ee91fc8c3ffc9$$lsname=[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR white]Gaviao Arqueiro - HD[/B][/COLOR]</link>	
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a5d12d02b4daf6c0b834eda140e6387a0263d934$$lsname=[COLOR orange][B]T01E02[COLOR yellow] -> [COLOR white]Gaviao Arqueiro - HD[/B][/COLOR]</link>	
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:431a9655debc12dd365ec6bb1cd443d20ea461d3$$lsname=[COLOR orange][B]T01E03[COLOR yellow] -> [COLOR white]Gaviao Arqueiro - FHD[/B][/COLOR]</link>	
-
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:aee1af0a8dfbd3dc55491c1376efaeb80b5fe25f$$lsname=[COLOR orange][B]T01E02[COLOR yellow] -> [COLOR white]Gaviao Arqueiro - FHD[/B][/COLOR]</link>	
-
-<link>NOLINK$$lsname=[COLOR black][B].[/B][/COLOR]</link>
-<link>NOLINK$$lsname=[COLOR orange][B]  QUER ASSISTIR MAIS EPISODIOS?[/B][/COLOR]</link>
-<link>NOLINK$$lsname=[COLOR orange][B]SOLICITE AO SUPORTE NO GRUPO DO WHATS.[/B][/COLOR]</link>
-	
-<thumbnail>https://www.themoviedb.org/t/p/original/62qfVDg4VK3kqZFxrRztPqSbal4.jpg</thumbnail>	
-<fanart>https://www.themoviedb.org/t/p/original/xyC3K4pB7dxMpC4gd0aoQwAvUZ4.jpg</fanart>	
-<info>O ex-vingador Clint Barton tem uma missão aparentemente simples: voltar para sua família no Natal. Será possível? Talvez com a ajuda de Kate Bishop, uma arqueira de 22 anos que sonha em se tornar uma super-heroína. </info>	
-<genre>SUPER-HERÓIS</genre>	
-</item>	
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
-
-<item>
-<title>[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Gavião Arqueiro (2021)[/B][/COLOR]</title>		
-	
-<link>NOLINK$$lsname=[COLOR orange][B] Temporada 01 - 02 EPs - DUAL[/B][/COLOR]</link>	
-
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/8-SPH/Gaviao.Arqueiro/T01/LS-T01E01.mkv$$lsname=[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR white]Gaviao Arqueiro - FHD - DUAL[/B][/COLOR]</link>	
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/8-SPH/Gaviao.Arqueiro/T01/LS-T01E02.mkv$$lsname=[COLOR orange][B]T01E02[COLOR yellow] -> [COLOR white]Gaviao Arqueiro - FHD - DUAL[/B][/COLOR]</link>	
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/8-SPH/Gaviao.Arqueiro/T01/LS-T01E03.mkv$$lsname=[COLOR orange][B]T01E03[COLOR yellow] -> [COLOR white]Gaviao Arqueiro - FHD - DUAL[/B][/COLOR]</link>	
-
-<link>NOLINK$$lsname=[COLOR black][B].[/B][/COLOR]</link>
-<link>NOLINK$$lsname=[COLOR orange][B]  QUER ASSISTIR MAIS EPISODIOS?[/B][/COLOR]</link>
-<link>NOLINK$$lsname=[COLOR orange][B]SOLICITE AO SUPORTE NO GRUPO DO WHATS.[/B][/COLOR]</link>
-
-<thumbnail>https://www.themoviedb.org/t/p/original/62qfVDg4VK3kqZFxrRztPqSbal4.jpg</thumbnail>	
-<fanart>https://www.themoviedb.org/t/p/original/xyC3K4pB7dxMpC4gd0aoQwAvUZ4.jpg</fanart>	
-<info>O ex-vingador Clint Barton tem uma missão aparentemente simples: voltar para sua família no Natal. Será possível? Talvez com a ajuda de Kate Bishop, uma arqueira de 22 anos que sonha em se tornar uma super-heroína. </info>	
-<genre>SUPER-HERÓIS</genre>	
-</item>	
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<item>
-<title>[COLOR black].[/COLOR]</title>
-<link>ignoreme</link>
-<thumbnail>https://i.ibb.co/bv1FXTF/LS-ICONE.png</thumbnail>
-<fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>
-</item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<item>
-<title>[COLOR orange][B]NÃO ENCONTROU O QUE PROCURAVA ?
-SOLICITE AO SUPORTE NO WHATS.[/B][/COLOR]</title>
-<link>ignoreme</link>
-<thumbnail>https://i.ibb.co/bv1FXTF/LS-ICONE.png</thumbnail>
-<fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>	
-</item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX																																	
+																																	
+<item>																																	
+<title>[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]Gavião Arqueiro[/B][/COLOR]</title>																																	
+<link>plugin://plugin.video.youtube/play/?video_id=C-Wi9qu--0k</link>																																	
+<thumbnail>https://www.themoviedb.org/t/p/original/62qfVDg4VK3kqZFxrRztPqSbal4.jpg</thumbnail>																																	
+<fanart>https://www.themoviedb.org/t/p/original/xyC3K4pB7dxMpC4gd0aoQwAvUZ4.jpg</fanart>																																	
+<info>Assista ao trailer</info>																																	
+<genre>SUPER-HERÓIS</genre> 																																	
+</item>																																	
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX																																	
+																																	
+<item>																																	
+<title>[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Gavião Arqueiro (2021)[/B][/COLOR]</title>																																	
+																																	
+<link>NOLINK$nome=[COLOR orange][B] Temporada 01 - 02 EPs  LEG[/B][/COLOR]</link>																																	
+																																	
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:20689bea361698b8f8583fa0063ee91fc8c3ffc9$nome=[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR white]Gaviao Arqueiro - HD[/B][/COLOR]</link>																																	
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a5d12d02b4daf6c0b834eda140e6387a0263d934$nome=[COLOR orange][B]T01E02[COLOR yellow] -> [COLOR white]Gaviao Arqueiro - HD[/B][/COLOR]</link>																																	
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:431a9655debc12dd365ec6bb1cd443d20ea461d3$nome=[COLOR orange][B]T01E03[COLOR yellow] -> [COLOR white]Gaviao Arqueiro - FHD[/B][/COLOR]</link>																																	
+																																	
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:aee1af0a8dfbd3dc55491c1376efaeb80b5fe25f$nome=[COLOR orange][B]T01E02[COLOR yellow] -> [COLOR white]Gaviao Arqueiro - FHD[/B][/COLOR]</link>																																	
+																																	
+<link>NOLINK$nome=[COLOR black][B].[/B][/COLOR]</link>																																	
+<link>NOLINK$nome=[COLOR orange][B]  QUER ASSISTIR MAIS EPISODIOS?[/B][/COLOR]</link>																																	
+<link>NOLINK$nome=[COLOR orange][B]SOLICITE AO SUPORTE NO GRUPO DO WHATS.[/B][/COLOR]</link>																																	
+																																	
+<thumbnail>https://www.themoviedb.org/t/p/original/62qfVDg4VK3kqZFxrRztPqSbal4.jpg</thumbnail>																																	
+<fanart>https://www.themoviedb.org/t/p/original/xyC3K4pB7dxMpC4gd0aoQwAvUZ4.jpg</fanart>																																	
+<info>O ex-vingador Clint Barton tem uma missão aparentemente simples: voltar para sua família no Natal. Será possível? Talvez com a ajuda de Kate Bishop, uma arqueira de 22 anos que sonha em se tornar uma super-heroína. </info>																																	
+<genre>SUPER-HERÓIS</genre>																																	
+</item>																																	
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX																																	
+																																	
+<item>																																	
+<title>[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Gavião Arqueiro (2021)[/B][/COLOR]</title>																																	
+																																	
+<link>NOLINK$nome=[COLOR orange][B] Temporada 01 - 02 EPs - DUAL[/B][/COLOR]</link>																																	
+																																	
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/8-SPH/Gaviao.Arqueiro/T01/LS-T01E01.mkv$nome=[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR white]Gaviao Arqueiro - FHD - DUAL[/B][/COLOR]</link>																																	
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/8-SPH/Gaviao.Arqueiro/T01/LS-T01E02.mkv$nome=[COLOR orange][B]T01E02[COLOR yellow] -> [COLOR white]Gaviao Arqueiro - FHD - DUAL[/B][/COLOR]</link>																																	
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/8-SPH/Gaviao.Arqueiro/T01/LS-T01E03.mkv$nome=[COLOR orange][B]T01E03[COLOR yellow] -> [COLOR white]Gaviao Arqueiro - FHD - DUAL[/B][/COLOR]</link>																																	
+																																	
+<link>NOLINK$nome=[COLOR black][B].[/B][/COLOR]</link>																																	
+<link>NOLINK$nome=[COLOR orange][B]  QUER ASSISTIR MAIS EPISODIOS?[/B][/COLOR]</link>																																	
+<link>NOLINK$nome=[COLOR orange][B]SOLICITE AO SUPORTE NO GRUPO DO WHATS.[/B][/COLOR]</link>																																	
+																																	
+<thumbnail>https://www.themoviedb.org/t/p/original/62qfVDg4VK3kqZFxrRztPqSbal4.jpg</thumbnail>																																	
+<fanart>https://www.themoviedb.org/t/p/original/xyC3K4pB7dxMpC4gd0aoQwAvUZ4.jpg</fanart>																																	
+<info>O ex-vingador Clint Barton tem uma missão aparentemente simples: voltar para sua família no Natal. Será possível? Talvez com a ajuda de Kate Bishop, uma arqueira de 22 anos que sonha em se tornar uma super-heroína. </info>																																	
+<genre>SUPER-HERÓIS</genre>																																	
+</item>																																	
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX																																	
+																																	
+<item>																																	
+<title>[COLOR black].[/COLOR]</title>																																	
+<link>ignoreme</link>																																	
+<thumbnail>https://i.ibb.co/bv1FXTF/LS-ICONE.png</thumbnail>																																	
+<fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>																																	
+</item>																																	
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX																																	
+																																	
+<item>																																	
+<title>[COLOR orange][B]NÃO ENCONTROU O QUE PROCURAVA ?																																	
+SOLICITE AO SUPORTE NO WHATS.[/B][/COLOR]</title>																																	
+<link>ignoreme</link>																																	
+<thumbnail>https://i.ibb.co/bv1FXTF/LS-ICONE.png</thumbnail>																																	
+<fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>																																	
+</item>																																	
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX																																	
+																																	
+																																	
