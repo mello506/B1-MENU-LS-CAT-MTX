@@ -25,7 +25,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channels>
 <channel>
 <name>[COLOR white][B]ÉPICOS[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/mello506/B1C-GRR-LS-MTX/main/A-SEL-GRR-LS-MTX</externallink>
+<externallink>https://raw.githubusercontent.com/mello506/B1B-EPC-LS-MTX/main/A-SEL-EPC-LS-MTX</externallink>
 <thumbnail>https://i.ibb.co/fNkyNdj/EPC-ALL.png</thumbnail>
 <fanart>https://i.ibb.co/kM1PM9N/EPICOS-FAN.png</fanart>
 <info>PASSAGENS HISTÓRICAS COMO NUNCA VISTAS</info>
@@ -49,7 +49,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channels>
 <channel>
 <name>[COLOR white][B]COMÉDIA[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/mello506/B1C-COM-LS-MTX/main/A-SEL-COM-LS-MTX</externallink>
+<externallink>https://raw.githubusercontent.com/mello506/B1D-COM-LS-MTX/main/A-SEL-COM-LS-MTX</externallink>
 <thumbnail>https://i.ibb.co/wpkPg73/CMD-ALL.png</thumbnail>
 <fanart>https://i.ibb.co/Jy9VPvf/COMED-FAN.png</fanart>
 <info>DAR BOAS RISADAS É AQUI MESMO</info>
@@ -61,7 +61,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channels>
 <channel>
 <name>[COLOR white][B]WESTERN[/B][/COLOR]</name>
-<externallink>https://github.com/mello506/B1D-WST-LS-MTX/raw/main/A-SEL-WST-LS-MTX</externallink>
+<externallink>https://raw.githubusercontent.com/mello506/B1E-WST-LS-MTX/raw/main/A-SEL-WST-LS-MTX</externallink>
 <thumbnail>https://i.ibb.co/FXHkG3p/WST-ALL.png</thumbnail>
 <fanart>https://i.ibb.co/jznjQjb/WESTERN-FAN.png</fanart>
 <info>TIROTEIOS E PERSEGUIÇÕES NO VELHO OESTE</info>
@@ -73,7 +73,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channels>
 <channel>
 <name>[COLOR white][B]AVENTURA[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/mello506/B1E-AVT-LS-MTX/main/A-SEL-AVT-LS-MTX</externallink>
+<externallink>https://raw.githubusercontent.com/mello506/B1F-AVT-LS-MTX/main/A-SEL-AVT-LS-MTX</externallink>
 <thumbnail>https://i.ibb.co/nbcdd4v/AVT-ALL.png</thumbnail>
 <fanart>https://i.ibb.co/fG1qvY0/AVENT-FAN.png</fanart>
 <info>CONHEÇA AS GRANDES AVENTURAS DO CINEMA</info>
@@ -85,7 +85,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channels>
 <channel>
 <name>[COLOR white][B]ANIMAÇÃO[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/mello506/B1F-ANM-LS-MTX/main/A-SEL-ANM-LS-MTX</externallink>
+<externallink>https://raw.githubusercontent.com/mello506/B1G-ANM-LS-MTX/main/A-SEL-ANM-LS-MTX</externallink>
 <thumbnail>https://i.ibb.co/YtJqm4d/ANM-ALL.png</thumbnail>
 <fanart>https://i.ibb.co/f10dJBQ/ANIM-FAN.png</fanart>
 <info>DIVERSÃO ANIMADA E GARANTIDA</info>
@@ -97,7 +97,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channels>
 <channel>
 <name>[COLOR white][B]SUPER-HERÓIS[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/mello506/B1E-SPH-LS-MTX/main/A-SEL-SPH-LS-MTX</externallink>
+<externallink>https://raw.githubusercontent.com/mello506/B1H-SPH-LS-MTX/main/A-SEL-SPH-LS-MTX</externallink>
 <thumbnail>https://i.ibb.co/Z8kTXbN/SPH-ALL.png</thumbnail>
 <fanart>https://i.ibb.co/f08jx10/SUP-HER-FAN.png</fanart>
 <info>OS MAIORES HERÓIS EM SUAS MAIORES AVENTURAS</info>
@@ -109,7 +109,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channels>
 <channel>
 <name>[COLOR white][B]CRIME E DRAMA[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/mello506/B1G-CRDR-LS-MTX/main/A-SEL-CRDR-LS-MTX</externallink>
+<externallink>https://raw.githubusercontent.com/mello506/B1I-CRDR-LS-MTX/main/A-SEL-CRDR-LS-MTX</externallink>
 <thumbnail>https://i.ibb.co/7S4vHCM/CRDR-ALL.png</thumbnail>
 <fanart>https://i.ibb.co/B49mGGP/CRIM-DRM-FAN.png</fanart>
 <info>OS MELHORES CLÁSSICOS DOS DOIS GÊNEROS ESTÃO AQUI </info>
@@ -121,7 +121,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channels>
 <channel>
 <name>[COLOR white][B]FICÇÃO E FANTASIA[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/mello506/B1F-FCFN-LS-MTX/main/B-COL-FCFN-LS-MTX</externallink>
+<externallink>https://raw.githubusercontent.com/mello506/B1J-FCFN-LS-MTX/main/B-COL-FCFN-LS-MTX</externallink>
 <thumbnail>https://i.ibb.co/25bbDmm/FCFN-ALL.png</thumbnail>
 <fanart>https://i.ibb.co/yXnXnLK/FIC-FAN-FAN.png</fanart>
 <info>EXPLORE OUTROS MUNDOS E DIMENSÕES </info>
