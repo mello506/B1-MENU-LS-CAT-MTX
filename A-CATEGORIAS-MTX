@@ -12,6 +12,17 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
+<name>[COLOR white][B]MENSAGEM DE NATAL LUMINART[/B][/COLOR]</name>
+<externallink>https://github.com/mello506/REPOTESTES-LUMINART/raw/main/NATAL%20LUMINART</externallink>
+<thumbnail>https://i.ibb.co/bv1FXTF/LS-ICONE.png</thumbnail>
+<fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>
+<info>MENSAGEN DE NATAL DO LUMINART</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
 <name>[COLOR white][B]LANÇAMENTOS[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/mello506/B1-MENU-LS-CAT-MTX/main/B-SEL-LANSA-MTX</externallink>
 <thumbnail>https://i.ibb.co/QNzZkNH/LANSA-ALL.png</thumbnail>
