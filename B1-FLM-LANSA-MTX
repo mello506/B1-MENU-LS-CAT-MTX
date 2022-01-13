@@ -77,17 +77,18 @@ link>plugin://plugin.video.elementum/play?uri=<LINKMAGNETREDUZIDO>$nome=[COLOR o
 </item>			
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX			
 			
-<item>			
-<title>[COLOR white][B]Halloween Kills: O Terror Continua (2021)[/B][/COLOR]</title>			
-<link>plugin://plugin.video.youtube/play/?video_id=Ljhe6DHyPVA$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Halloween Kills: O Terror Continua[/B][/COLOR]</link>			
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1bfdaf183ac2c15af7c9cc1e823a4b02b5da29f0$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Halloween Kills: O Terror Continua - HD LEG[/B][/COLOR]</link>			
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:eyblelvaaothf56n5l3j573h6xvbbfvw$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Halloween Kills: O Terror Continua - FHD DUB - CAM[/B][/COLOR]</link>			
-<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/11SPTR-FM/LS-Halloween.Kills.O.Terror%20Cont.2021.HD.LEG.mkv$nome=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Halloween Kills: O Terror Continua - HD LEG[/B][/COLOR]</link>			
-<thumbnail>https://www.themoviedb.org/t/p/original/4NphuHmnuROLqCjAEr5LS7Aage6.jpg</thumbnail>			
-<fanart>https://www.themoviedb.org/t/p/original/kIG81E0H4CxuYIRgyNyD0z3KSlM.jpg</fanart>			
-<info>Laurie Strode acredita que enfim venceu a luta contra Michael Myers, mas é surpreendida pelo seu retorno, ela e outros sobreviventes decidem enfrentá-lo e acabar com o ciclo de uma vez por todas.</info>			
-<genre>SUSPENSE E TERROR</genre>			
-</item>			
+<item>
+<title>[COLOR white][B]Halloween Kills: O Terror Continua (2021)[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=Ljhe6DHyPVA$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Halloween Kills: O Terror Continua[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1bfdaf183ac2c15af7c9cc1e823a4b02b5da29f0$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Halloween Kills: O Terror Continua - HD LEG[/B][/COLOR]</link>
+link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:eyblelvaaothf56n5l3j573h6xvbbfvw$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Halloween Kills: O Terror Continua - FHD DUB - CAM[/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/11SPTR-FM/LS-Halloween.Kills.O.Terror%20Cont.2021.HD.LEG.mkv$nome=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Halloween Kills: O Terror Continua - HD LEG[/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/11SPTR-FM/LS-Halloween.Kills.O.Terror%20Cont.2021.FHD.DUAL.mkv$nome=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Halloween Kills: O Terror Continua - FHD DUAL[/B][/COLOR]</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/4NphuHmnuROLqCjAEr5LS7Aage6.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/kIG81E0H4CxuYIRgyNyD0z3KSlM.jpg</fanart>
+<info>Laurie Strode acredita que enfim venceu a luta contra Michael Myers, mas é surpreendida pelo seu retorno, ela e outros sobreviventes decidem enfrentá-lo e acabar com o ciclo de uma vez por todas.</info>
+<genre>SUSPENSE E TERROR</genre>
+</item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX			
 			
 <item>			
