@@ -11,11 +11,9 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <item>				
 <title>[B][COLOR white]Spencer (2021)[/COLOR][/B]</title>				
 <link>plugin://plugin.video.youtube/play/?video_id=yS1oP3VaXQA$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]Spencer[/B][/COLOR]</link>				
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:68e1fd534f216081528883c046cdf3278df9de6e$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Spencer - HD DUAL[/B][/COLOR]</link>				
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e1ceab2a840c3369c9f4e22040bf37391c7bec2b$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Spencer - FHD DUAL[/B][/COLOR]</link>				
-				
-link><LINKUNIVERSAL>$nome=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Spencer - DUB - LEGFIX[/B][/COLOR]</link>				
-				
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:68e1fd534f216081528883c046cdf3278df9de6e$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Spencer - HD LEG[/B][/COLOR]</link>				
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e1ceab2a840c3369c9f4e22040bf37391c7bec2b$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Spencer - FHD LEG[/B][/COLOR]</link>				
+<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/9CRDR-FM/LS-Spencer.2021.FHD.LEG.mkv$nome=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Spencer - FHD LEG[/B][/COLOR]</link>				
 <thumbnail>https://www.themoviedb.org/t/p/original/lCDAZAcKwQd54WRdROYWLjH4fq9.jpg</thumbnail>				
 <fanart>https://www.themoviedb.org/t/p/original/wdMq48iw0E9gFTPTUFfE8lDPAbt.jpg</fanart>				
 <info>Spencer é apenas uma especulação do que pode ter acontecido durante esses turbulentos dias e notícias.</info>				
